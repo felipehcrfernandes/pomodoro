@@ -1,9 +1,9 @@
 body{
-    background-color: rgb(191, 194, 248);
+    background-color: whitesmoke;
 }
 
 h1{
-  color: #9e59a5;
+  color: #5A29E4;
   margin-bottom: 50px;
 }
 .circle{
@@ -15,7 +15,7 @@ h1{
   align-items: center;
   justify-content: center;
   background: conic-gradient(
-    #9e59a5 0deg var(--angle, 0deg),
+    #5A29E4 0deg var(--angle, 0deg),
     transparent var(--angle, 0deg) 360deg
   );
 }
@@ -27,7 +27,7 @@ h1{
   display: flex;
   align-items: center;
   justify-content: center;
-  border: solid #9e59a5;
+  border: solid #5A29E4;
   box-sizing: border-box;
 }
 
@@ -38,7 +38,7 @@ h1{
   display: flex;
   align-items: center;
   justify-content: center;
-  border: solid #9e59a5;
+  border: solid #5A29E4;
   box-sizing: border-box;
 }
 
@@ -48,13 +48,13 @@ h1{
   width: 280px;
   height: 280px;
   border-radius: 50%;
-  background: rgb(191, 194, 248);
+  background: whitesmoke;
   display: flex;
   align-items: center;
   justify-content: center;
   font-weight: 700;
   font-size: 2em;
-  color: white;
+  color: #5A29E4;
 }
 
 .digit-input{
@@ -72,9 +72,9 @@ h1{
     width: 130px;
     height: 50px;
     margin: 10px;
-    background-color:rgb(191, 194, 248);
-    color: #9e59a5;
-    border: 3px solid #9e59a5;
+    background-color:whitesmoke;
+    color: #5A29E4;
+    border: 3px solid #5A29E4;
     border-radius: 10px;
     font-size: 20px; 
     display: flex;
@@ -87,9 +87,9 @@ h1{
   width: 130px;
   height: 50px;
   margin: 10px;
-  background-color:rgb(191, 194, 248);
-  color: #9e59a5;
-  border: 3px solid #9e59a5;
+  background-color:whitesmoke;
+  color: #5A29E4;
+  border: 3px solid #5A29E4;
   border-radius: 10px;
   font-size: 20px; 
   display: flex;
